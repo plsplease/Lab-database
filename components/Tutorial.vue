@@ -74,9 +74,10 @@
             >pages/index.vue</code
           >. Have fun!
         </p>
-        <nuxt-link to="/TestTer">TersTer</nuxt-link>
+        <nuxt-link to="/TestTer"
+          ><ui-button raised>Connect</ui-button></nuxt-link
+        >
       </div>
-
     </div>
   </div>
 </template>
